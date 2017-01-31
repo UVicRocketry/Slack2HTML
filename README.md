@@ -1,5 +1,5 @@
-# Util
-Instructions for SlackUP process:
+
+# Instructions for SlackUP process:
 
 Note (Because of Slack the only people able to perform an Export of the teams data are the admins)
 Instruction on how to export: https://get.slack.help/hc/en-us/articles/201658943-Export-your-team-s-Slack-history
